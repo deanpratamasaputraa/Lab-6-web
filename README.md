@@ -156,8 +156,8 @@ Gunakan kelas-kelas Bootstrap seperti `container`, `row`, dan `col` untuk memban
 > - **Hasil run/output sebelum diberi style Bootstrap :**
 
 
-![1](https://github.com/syifaaurellia/Lab6web/assets/115867244/a327e744-7a6f-46ce-b284-54a2335e1f07)
-![2](https://github.com/syifaaurellia/Lab6web/assets/115867244/47ae8b78-cb14-40a8-b156-a11da929a5a3)
+<img width="960" alt="Screenshot 2023-11-06 175309" src="https://github.com/deanpratamasaputraa/Lab-6-web/assets/120002341/e9b8ef9f-3a70-4475-a48a-4ca733588c55">
+<img width="960" alt="Screenshot 2023-11-06 174515" src="https://github.com/deanpratamasaputraa/Lab-6-web/assets/120002341/06c5ac74-3b54-47e7-81a6-f93b31f059e5">11da929a5a3)
 
 
 
@@ -341,9 +341,7 @@ Ini adalah keseluruhan program :
 > - **Hasil run/output setelah menggunakan style Bootstrap :**
 
 
-![3](https://github.com/syifaaurellia/Lab6web/assets/115867244/4735fc7b-4755-4439-b7c7-9417998900c0)
-![4](https://github.com/syifaaurellia/Lab6web/assets/115867244/221c2aea-097f-4374-9570-ce91c3c07d59)
-
-
+<img width="960" alt="Screenshot 2023-11-06 174401" src="https://github.com/deanpratamasaputraa/Lab-6-web/assets/120002341/efb21daa-62e6-4125-a38c-e65dad02cb11">
+<img width="960" alt="Screenshot 2023-11-06 174515" src="https://github.com/deanpratamasaputraa/Lab-6-web/assets/120002341/f64d2073-9fac-4c14-a42a-2a82f001bbf3">
 
 ## Finish, Terima Kasih
